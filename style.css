@@ -1,0 +1,12 @@
+body {
+  background-color: lightgrey;
+}
+.container {
+  height: 100vh;
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+.container canvas {
+  margin: 40px 0;
+}
